@@ -1,4 +1,4 @@
-### One-page website for Ice-Cream Company
+### One-page website for Ice-Cream Company (HTML+CSS+JavaScript)
 
 ---
 
